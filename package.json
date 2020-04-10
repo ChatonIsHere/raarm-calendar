@@ -1,0 +1,10 @@
+{
+  "name": "@ehsawyer/raarm-calendar",
+  "version": "0.0.76",
+  "description": "A basic implemtation of the Mindar calendar for the World of Raarm D&D Campaign",
+  "main": "index.js",
+  "repository": "https://github.com/ehsawyer/raarm-calendar",
+  "author": "Ethan Sawyer",
+  "license": "GPL-3.0-only",
+  "private": false
+}
